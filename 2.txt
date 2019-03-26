@@ -1,3 +1,5 @@
+//The second set of rules
+//The first number represents the start position
 2
 00000*0000
 
