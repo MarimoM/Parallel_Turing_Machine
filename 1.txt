@@ -1,3 +1,5 @@
+//The first set of rules
+//The first number represents the start position
 1
 00V001111*A00000001111*B000000ZR00000H000000
 
