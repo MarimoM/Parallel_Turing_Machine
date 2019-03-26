@@ -1,3 +1,6 @@
+//The third set of rules
+//The first number represents the start position
+
 1
 00*0000
 
